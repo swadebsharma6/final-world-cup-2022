@@ -98,3 +98,37 @@ header{
     grid-row-gap: 20px;
     padding-left: 80px;
 }
+
+/* sart slyling footer section */
+.footer-container{
+   background-color: rgb(40,42,54);
+   text-align: center;
+   padding: 30px;
+ }
+ .div ul{
+   list-style: none;
+ }
+ #big-h{
+   font-size: 30px;
+   color: rgb(255 255 255);
+ }
+ #pera{
+   color: rgb(255 255 255);
+ }
+ .li-content{
+   list-style: none;
+   display: flex;
+   justify-content: space-around;
+   color: rgb(255 255 255);
+ }
+ .li-logo{
+   display: flex;
+   justify-content: space-evenly;
+   font-size: 20px;
+   list-style: none;
+   
+ }
+ .logo{
+   color: #ffffff;
+   
+ }
